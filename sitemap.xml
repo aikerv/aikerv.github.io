@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://devops.iuops.com/timeline/index.html</loc>
+    
+    <lastmod>2020-04-19T14:54:14.772Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://devops.iuops.com/2019/08/27/blog-open-source/</loc>
     
     <lastmod>2020-04-02T16:19:27.911Z</lastmod>
@@ -37,14 +44,14 @@
   </url>
   
   <url>
-    <loc>https://devops.iuops.com/galleries/index.html</loc>
+    <loc>https://devops.iuops.com/friends/index.html</loc>
     
     <lastmod>2020-04-01T05:46:57.091Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://devops.iuops.com/friends/index.html</loc>
+    <loc>https://devops.iuops.com/galleries/index.html</loc>
     
     <lastmod>2020-04-01T05:46:57.091Z</lastmod>
     
